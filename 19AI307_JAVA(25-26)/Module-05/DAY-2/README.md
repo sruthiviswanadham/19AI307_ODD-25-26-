@@ -3,12 +3,9 @@
 ## QUESTION:
 Write a Java program to demonstrate **Serialization and Deserialization** of objects.
 
----
 
 ## AIM:
 To write a Java program to demonstrate **object serialization and deserialization using ObjectOutputStream and ObjectInputStream**.
-
----
 
 ## ALGORITHM :
 1. Start the program.  
@@ -28,15 +25,14 @@ To write a Java program to demonstrate **object serialization and deserializatio
 15. Display the deserialized student details.  
 16. Stop the program.
 
----
 
 ## PROGRAM:
 
 ```java
 /*
 Program to implement Serialization and Deserialization using Java
-Developed by: D.B.V.SAI GANESH
-RegisterNumber: 212223240025
+Developed by: LAHARI A
+RegisterNumber: 212223230111
 */
 
 import java.io.*;
